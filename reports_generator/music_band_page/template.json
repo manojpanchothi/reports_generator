@@ -1,6 +1,0 @@
-{
-    "sections": {
-        "desktop": ["Header", "Landing Page", "About Us", "Upcoming Concerts", "Gallery", "Footer"],
-        "mobile": ["Header-mobile", "Landing Page-mobile", "About Us - mobile", "Upcoming Concerts - mobile", "Gallery-mobile"]
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "sections": {
-        "desktop": ["Header", "Landing Page", "About Us", "Our Cycles", "Contact Us", "Testimonial", "Footer"],
-        "mobile": ["Header-mobile", "Landing Page-mobile", "About Us-mobile", "Our Cycles-mobile", "Contact Us-mobile", "Testimonial-mobile", "Footer-mobile"]
-    }
-}

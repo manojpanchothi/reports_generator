@@ -1,0 +1,6 @@
+{
+    "sections": {
+        "desktop": ["Landing Page", "Feature", "About Us", "Get In Touch"],
+        "mobile": ["Landing Page - mobile", "Feature-mobile", "About Us-mobile", "Get In Touch-mobile"]
+    }
+}

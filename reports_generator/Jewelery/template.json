@@ -1,0 +1,6 @@
+{
+    "sections": {
+        "desktop": ["Header", "Landing Page", "Best Jewellery", "Request Call Back", "Footer"],
+        "mobile": ["Header-mobile", "Landing Page-mobile", "Best Jewellery-mobile", "Request Call Back - mobile", "Footer-mobile"]
+    }
+}

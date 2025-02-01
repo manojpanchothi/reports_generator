@@ -1,0 +1,6 @@
+{
+    "sections": {
+        "desktop": ["landing Page", "smart proctection", "take a look", "check pricing", "Footer"],
+        "mobile": ["landing Page - mobile", "smart proctection-mobile", "take a look-mobile", "check pricing-mobile", "Footer-mobile"]
+    }
+}

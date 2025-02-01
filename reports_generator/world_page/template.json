@@ -1,6 +1,0 @@
-{
-    "sections": {
-        "desktop": ["Header", "Landing Page", "elementum", "our_work", "subscribe", "about_us", "Footer"],
-        "mobile": ["Header-mobile", "Landing Page-mobile", "section-elementum", "seaction-our_work", "section 3-subscribe", "section 4-about_us", "Footer-contact"]
-    }
-}

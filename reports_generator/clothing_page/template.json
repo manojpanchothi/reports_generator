@@ -1,6 +1,0 @@
-{
-    "sections": {
-        "desktop": ["Header", "Landing Page", "Latest Products", "About Sixteen", "Footer"],
-        "mobile": ["Header-mobile", "Landing Page-mobile", "Latest Products-mobile", "About Sixteen-mobile", "Footer-mobile"]
-    }
-}

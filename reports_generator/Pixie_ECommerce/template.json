@@ -1,0 +1,6 @@
+{
+    "sections": {
+        "desktop": ["Header", "Landing Page", "Featured Items", "Subscribe", "Footer"],
+        "mobile": ["Header-mobile", "Landing Page-mobile", "Featured Items - mobile", "Subscribe - mobile", "Footer-mobile"]
+    }
+}

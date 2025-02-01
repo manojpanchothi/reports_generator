@@ -1,6 +1,0 @@
-{
-    "sections": {
-        "desktop": ["Siderbar & Header", "Simple & Useful", "How can you apply", "colour hexa", "Footer"],
-        "mobile": ["Siderbar & Header-mobile", "Simple & Useful-mobile", "How can you apply-mobile", "colour hexa-mobile", "Footer-mobile"]
-    }
-}
